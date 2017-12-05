@@ -17,4 +17,4 @@ This documentation was organized and built by the PowerShell Empire development 
 * [@enigma0x3](https://twitter.com/enigma0x3) : _enigma0x3 [at] gmail.com_
 * [@sixdub](https://twitter.com/sixdub) : _justin [at] sixdub.net_
 
-[[/Images/empire_logo.png|align=center]]
+[/Images/empire_logo.png|align=center]
